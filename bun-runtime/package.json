@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/bun": "^1.2.10",
+    "drizzle-kit": "^0.31.0",
+    "tsx": "^4.19.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "drizzle-orm": "^0.43.1",
+    "mysql2": "^3.14.1"
+  }
+}
